@@ -1,2 +1,6 @@
 # pyarubaimc
-ported pyhpeimc to aruba updated API
+Aruba IMC Python Binding
+
+## Installation
+
+pip3 install pyarubaimc
